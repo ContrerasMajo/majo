@@ -1,0 +1,10 @@
+body{
+  background-color: hsl(198,50%, 85%)
+  font-family:Georgina,'Times New Roman',Times, serif; <!-- dependiendo de los navegadores del cliente el tipo de letra-->
+
+}
+h1{
+  font-size: 3rem;  <!-- pixeles -->
+  color: Blue
+  text-decoration: underline;
+  text-transform: uppercase;
